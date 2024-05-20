@@ -1,7 +1,7 @@
 return {
 	dark = {
 		black = "#181a1f",
-		bg0 = "#282c34",
+		bg0 = "#0f1116",
 		bg1 = "#31353f",
 		bg2 = "#393f4a",
 		bg3 = "#3b3f4c",
